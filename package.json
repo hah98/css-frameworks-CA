@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/hah98/css-frameworks-CA/issues"
   },
-  "homepage": "https://github.com/hah98/css-frameworks-CA#readme"
+  "homepage": "https://github.com/hah98/css-frameworks-CA#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
 }
