@@ -4,7 +4,7 @@
   "description": "CSS Frameworks social media project",
   "main": "index.js",
   "scripts": {
-    "build": "sass src/scss:dist/css"
+    "build": "sass src/scss/styles.scss:dist/css"
   },
   "repository": {
     "type": "git",
@@ -22,9 +22,7 @@
   },
   "homepage": "https://github.com/hah98/css-frameworks-CA#readme",
   "dependencies": {
-    "bootstrap": "^5.3.1"
-  },
-  "devDependencies": {
+    "bootstrap": "^5.3.1",
     "sass": "^1.66.1"
   }
 }
